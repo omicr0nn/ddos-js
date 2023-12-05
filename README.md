@@ -1,6 +1,6 @@
 
 #### You need to install nodejs software for installation.
-#### You can run it with the 'nodejs ddos.js' command.
+#### You can run it with the 'node ddos.js' command.
 
 ##
 
