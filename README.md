@@ -41,9 +41,6 @@ This script is intended for educational and testing purposes only. The author is
 
 ---
 
-\x1b[32mcoding \x1b[31mby \x1b[32momicr0n
-
-
 
 # With ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
