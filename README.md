@@ -1,12 +1,49 @@
+# Node.js DDoS Script
 
-#### You need to install nodejs software for installation.
-#### You can run it with the 'node ddos.js' command.
+A simple Node.js script for launching a basic DDoS attack. **Use responsibly and only on systems you own or have explicit permission to test. Unauthorized use is illegal.**
 
-##
+## Introduction
 
-###             - This program was coded by omicr0n.
+This script allows you to perform a basic DDoS (Distributed Denial of Service) attack on a target website. It sends a specified number of HTTP requests per second for a total number of requests.
 
-##
+## Warning
+
+- **Use responsibly:** Unauthorized use of this script may be illegal and is strictly against ethical guidelines.
+- **Risk of legal consequences:** Engaging in DDoS attacks without permission is illegal and can lead to serious legal consequences.
+
+## Features
+
+- Specify the target URL.
+- Set the rate of requests per second.
+- Set the total number of requests.
+
+## Usage
+
+```bash
+git clone https://github.com/omicr0nn/ddos-js
+```
+```bash
+cd ddos-js
+```
+```bash
+node ddos.js
+```
+![Kali](https://i.hizliresim.com/5vhbvr2.png)
+
+## Dependencies
+
+- http
+- readline
+
+## Disclaimer
+
+This script is intended for educational and testing purposes only. The author is not responsible for any misuse or damage caused by this script.
+
+---
+
+\x1b[32mcoding \x1b[31mby \x1b[32momicr0n
+
+
 
 # With ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
