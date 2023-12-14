@@ -28,6 +28,10 @@ cd ddos-js
 ```bash
 node ddos.js
 ```
+
+Also click to use in replit
+<p align="left"><a href="https://replit.com/@omicr0n/ddosjs"><img src="https://skillicons.dev/icons?i=replit"></a></p>
+
 ![Kali](https://i.hizliresim.com/5vhbvr2.png)
 
 ## Dependencies
